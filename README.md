@@ -35,6 +35,9 @@ A curated list of the most important and actively maintained frameworks and libr
 
 ### Quantum Machine Learning & Hybrid Frameworks
 
+- [Qiskit Machine Learning](https://github.com/qiskit-community/qiskit-machine-learning)  
+  An extension of Qiskit that provides tools, algorithms, and neural network primitives for quantum machine learning. Easily integrates quantum machine learning models with classical ML workflows.
+
 - [PennyLane](https://github.com/PennyLaneAI/pennylane)  
   A cross-platform Python library for hybrid quantum-classical computation and quantum machine learning. Supports differentiable programming and works with PyTorch, TensorFlow, and JAX.
 
