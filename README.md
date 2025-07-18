@@ -1,10 +1,10 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 # ⚛️ Awesome Quantum Artificial Intelligence
 
 A curated list of the most important and actively maintained frameworks and libraries for Quantum Artificial Intelligence.
 
 ---
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Frameworks & Libraries
 
